@@ -5,7 +5,9 @@ dirG is a tool to grab directory of webapplication
 # Usage
 
 git clone git@github.com:vipulxd/dirG.git
-python3 dirG.py wordlist.txt https://apple.com
+
+
+python3 dirG.py wordlist.txt https://site.com
 
 # Author
 
